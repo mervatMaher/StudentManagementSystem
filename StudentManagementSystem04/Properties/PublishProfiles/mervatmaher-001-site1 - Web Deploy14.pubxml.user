@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-06-09T03:03:54.1334125Z;True|2024-06-09T05:53:10.7450563+03:00;True|2024-06-09T05:38:51.3403110+03:00;True|2024-06-09T05:29:33.0840815+03:00;True|2024-06-08T16:00:23.5204948+03:00;True|2024-06-08T15:02:53.1627463+03:00;True|2024-06-08T14:14:48.5465041+03:00;True|2024-06-08T04:47:13.2834556+03:00;True|2024-06-05T02:39:48.0222220+03:00;True|2024-06-05T02:01:31.3564408+03:00;False|2024-06-05T01:58:18.7761807+03:00;True|2024-06-05T01:01:21.1079913+03:00;True|2024-06-03T20:30:37.0795301+03:00;True|2024-06-01T02:53:52.1787430+03:00;True|2024-05-31T18:29:25.4544142+03:00;True|2024-05-31T14:20:06.3303370+03:00;True|2024-05-27T07:50:48.9778086+03:00;True|2024-05-24T15:46:30.1935367+03:00;True|2024-05-22T01:31:46.4031798+03:00;True|2024-05-21T14:05:59.6178720+03:00;True|2024-05-21T13:57:14.3106269+03:00;True|2024-05-20T23:40:54.5437475+03:00;True|2024-05-20T17:15:20.4858645+03:00;True|2024-05-20T04:42:39.8532177+03:00;True|2024-05-18T22:38:09.1459081+03:00;True|2024-05-18T21:50:42.8962335+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa85eb_studenttrack%3bUser Id=db_aa85eb_studenttrack_admin%3bPassword=mervatMaher_123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="StudentManagementSystem04.Data.StudentManagementSystemDbContext">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa85eb_studenttrack%3bUser Id=db_aa85eb_studenttrack_admin%3bPassword=mervatMaher_123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

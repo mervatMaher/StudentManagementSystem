@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\Computer-Science-Course.png",
+      "PackagePath": "staticwebassets\\uploads\\Computer-Science-Course.png"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\IMG_20230821_114553_111225.jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG_20230821_114553_111225.jpg"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\OIP (1).jpeg",
+      "PackagePath": "staticwebassets\\uploads\\OIP (1).jpeg"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\cover.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cover.jpg"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\csharp.png",
+      "PackagePath": "staticwebassets\\uploads\\csharp.png"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\dotnet-bot-maui-cross-platform-development-1536x863.png",
+      "PackagePath": "staticwebassets\\uploads\\dotnet-bot-maui-cross-platform-development-1536x863.png"
+    },
+    {
+      "Id": "D:\\StudentManagementSystem04\\wwwroot\\uploads\\retina_1708x683_cover-0219-The10MistakesC-Waldek_img-343f93efd75d26a7d857e374cd8630fd.png",
+      "PackagePath": "staticwebassets\\uploads\\retina_1708x683_cover-0219-The10MistakesC-Waldek_img-343f93efd75d26a7d857e374cd8630fd.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StudentManagementSystem04.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StudentManagementSystem04.props",
+      "PackagePath": "build\\StudentManagementSystem04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentManagementSystem04.props",
+      "PackagePath": "buildMultiTargeting\\StudentManagementSystem04.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StudentManagementSystem04.props",
+      "PackagePath": "buildTransitive\\StudentManagementSystem04.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
